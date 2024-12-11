@@ -26,5 +26,5 @@ npm i
 npm run start
 ```
 
-[Creating a repository from a template]([https://pages.github.com/](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)).
+Creating a repository from a [template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
 
