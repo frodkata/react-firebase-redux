@@ -1,4 +1,4 @@
-# React/Redux/Firebase template
+# ⚛ React 📦 Redux 🔥 Firebase - boilerplate 
 
 Serve as a template project with initial setup, featuring: </p>
 
